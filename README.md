@@ -36,7 +36,7 @@ Implantação do Modelo: Implante o modelo treinado em produção para realizar 
   ![outputanaliseImagem](https://github.com/IvoJucaBezerra/Reconhecimento-Facial-e-transforma-o-de-imagens-em-Dados-no-Azure-ML/blob/main/outputs/analisedeimagens.png)
 
 
-  ## O Azure AI Vision é uma maravilha tecnológica que transforma imagens em insights valiosos. Com sua capacidade de reconhecimento de objetos, detecção de texto e análise de imagem, ele simplifica processos complexos. Desde a automação de tarefas até a melhoria da segurança, suas aplicações são diversas e impactantes. Integrado ao ecossistema Azure, oferece uma solução completa e fácil de implementar para empresas de todos os tamanhos. Em resumo, o Azure AI Vision é uma ferramenta indispensável para quem busca aproveitar ao máximo o potencial da inteligência artificial na análise visual.
+  ### O Azure AI Vision é uma maravilha tecnológica que transforma imagens em insights valiosos. Com sua capacidade de reconhecimento de objetos, detecção de texto e análise de imagem, ele simplifica processos complexos. Desde a automação de tarefas até a melhoria da segurança, suas aplicações são diversas e impactantes. Integrado ao ecossistema Azure, oferece uma solução completa e fácil de implementar para empresas de todos os tamanhos. Em resumo, o Azure AI Vision é uma ferramenta indispensável para quem busca aproveitar ao máximo o potencial da inteligência artificial na análise visual.
 
 
 
