@@ -29,7 +29,14 @@ Implantação do Modelo: Implante o modelo treinado em produção para realizar 
 
 - Extrair texto de imagens: a API Read permite extrair texto de imagens, PDFs e arquivos TIFF, incluindo texto impresso e manuscrito em vários idiomas suportados. O recurso de reconhecimento óptico de caracteres (OCR) é capaz de lidar com documentos que contenham uma mistura de idiomas, sem a necessidade de especificar o idioma.
 
+  ![outputRecnhecimentoTexto](https://github.com/IvoJucaBezerra/Reconhecimento-Facial-e-transforma-o-de-imagens-em-Dados-no-Azure-ML/blob/main/outputs/imagemTexto.png)
+
 -  Análise de imagem: a funcionalidade de Análise de Imagem do Azure AI Vision Studio oferece uma variedade de recursos poderosos para entender e extrair informações de imagens.
+
+  ![outputanaliseImagem](https://github.com/IvoJucaBezerra/Reconhecimento-Facial-e-transforma-o-de-imagens-em-Dados-no-Azure-ML/blob/main/outputs/analisedeimagens.png)
+
+
+  ## O Azure AI Vision é uma maravilha tecnológica que transforma imagens em insights valiosos. Com sua capacidade de reconhecimento de objetos, detecção de texto e análise de imagem, ele simplifica processos complexos. Desde a automação de tarefas até a melhoria da segurança, suas aplicações são diversas e impactantes. Integrado ao ecossistema Azure, oferece uma solução completa e fácil de implementar para empresas de todos os tamanhos. Em resumo, o Azure AI Vision é uma ferramenta indispensável para quem busca aproveitar ao máximo o potencial da inteligência artificial na análise visual.
 
 
 
