@@ -21,7 +21,10 @@ Treinamento do Modelo: Treine o modelo com os dados disponíveis e ajuste os par
 Avaliação do Modelo: Avalie o desempenho do modelo usando métricas relevantes.
 Implantação do Modelo: Implante o modelo treinado em produção para realizar inferências em tempo real.
 
-Após a configuração do Grupo de Recursos, acessado o portal da AI Vision Studio e realizeir os teste de OCR, Legendas Para Imagens, e reconhecimento facial.
+- Após a configuração do Grupo de Recursos, acessado o portal da AI Vision Studio e realizeir os teste de OCR, Legendas Para Imagens, e reconhecimento facial.
+
+  ![outputReconhecimentoFacial](https://github.com/IvoJucaBezerra/Reconhecimento-Facial-e-transforma-o-de-imagens-em-Dados-no-Azure-ML/blob/main/outputs/facial.png)
+  
 
 
 - Extrair texto de imagens: a API Read permite extrair texto de imagens, PDFs e arquivos TIFF, incluindo texto impresso e manuscrito em vários idiomas suportados. O recurso de reconhecimento óptico de caracteres (OCR) é capaz de lidar com documentos que contenham uma mistura de idiomas, sem a necessidade de especificar o idioma.
