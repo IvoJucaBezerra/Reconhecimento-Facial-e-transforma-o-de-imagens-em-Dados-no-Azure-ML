@@ -24,3 +24,10 @@ Implantação do Modelo: Implante o modelo treinado em produção para realizar 
 Após a configuração do Grupo de Recursos, acessado o portal da AI Vision Studio e realizeir os teste de OCR, Legendas Para Imagens, e reconhecimento facial.
 
 
+- Extrair texto de imagens: a API Read permite extrair texto de imagens, PDFs e arquivos TIFF, incluindo texto impresso e manuscrito em vários idiomas suportados. O recurso de reconhecimento óptico de caracteres (OCR) é capaz de lidar com documentos que contenham uma mistura de idiomas, sem a necessidade de especificar o idioma.
+
+-  Análise de imagem: a funcionalidade de Análise de Imagem do Azure AI Vision Studio oferece uma variedade de recursos poderosos para entender e extrair informações de imagens.
+
+
+
+
